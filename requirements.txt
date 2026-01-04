@@ -1,0 +1,84 @@
+pip install -r requirements.txt
+
+altair==6.0.0
+asttokens==3.0.1
+attrs==25.4.0
+blinker==1.9.0
+Bottleneck @ file:///home/task_176193795211885/conda-bld/bottleneck_1761937995638/work
+cachetools==6.2.4
+certifi==2026.1.4
+charset-normalizer==3.4.4
+click==8.3.1
+comm==0.2.3
+contourpy @ file:///home/task_176364365480719/conda-bld/contourpy_1763643923715/work
+cycler @ file:///home/task_176606792831380/croot/cycler_1766067950713/work
+debugpy==1.8.18
+decorator==5.2.1
+executing==2.2.1
+fonttools @ file:///work/buildout/croot/fonttools_1759953991351/work
+gitdb==4.0.12
+GitPython==3.1.46
+idna==3.11
+ipykernel==7.1.0
+ipython==9.8.0
+ipython_pygments_lexers==1.1.1
+jedi==0.19.2
+Jinja2==3.1.6
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1756321760188/work
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
+jupyter_client==8.7.0
+jupyter_core==5.9.1
+kiwisolver @ file:///home/task_176415927081510/conda-bld/kiwisolver_1764159298585/work
+MarkupSafe==3.0.3
+matplotlib==3.10.7
+matplotlib-inline==0.2.1
+mkl-service==2.5.2
+mkl_fft @ file:///home/task_176159258493269/conda-bld/mkl_fft_1761592900924/work
+mkl_random @ file:///home/task_176159293775784/conda-bld/mkl_random_1761592951865/work
+narwhals==2.14.0
+nest-asyncio==1.6.0
+numexpr @ file:///home/task_176216555608242/conda-bld/numexpr_1762165566524/work
+numpy @ file:///home/task_176397993191838/conda-bld/numpy_and_numpy_base_1763980677639/work/dist/numpy-2.3.5-cp314-cp314-linux_x86_64.whl#sha256=7e59d31c1f557cd188954e3ced7f0b6ec49297519ef3f80345d3e36d9213070d
+packaging @ file:///home/task_176104874909647/conda-bld/packaging_1761049078203/work
+pandas @ file:///home/task_176233228384347/conda-bld/pandas_1762332324932/work/dist/pandas-2.3.3-cp314-cp314-linux_x86_64.whl#sha256=252fcafdd57061f21e7a27eb50782b65582206280f2f21f28aa73eed2c754583
+parso==0.8.5
+pexpect==4.9.0
+pillow @ file:///work/buildout/croot/pillow_1762546694560/work
+platformdirs==4.5.1
+prompt_toolkit==3.0.52
+protobuf==6.33.2
+psutil==7.1.3
+ptyprocess==0.7.0
+pure_eval==0.2.3
+pyarrow==22.0.0
+pydeck==0.9.1
+Pygments==2.19.2
+pyparsing @ file:///home/task_176397380589210/conda-bld/pyparsing_1763973817532/work
+PyQt6==6.9.1
+PyQt6_sip @ file:///work/buildout/croot/pyqt-split_1759957344790/work/pyqt_sip
+python-dateutil @ file:///work/buildout/croot/python-dateutil_1759952394083/work
+pytz @ file:///work/buildout/croot/pytz_1759953796418/work
+pyzmq==27.1.0
+referencing==0.37.0
+requests==2.32.5
+rpds-py==0.30.0
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1765350295613/work/dist/scikit_learn-1.8.0-cp314-cp314-linux_x86_64.whl#sha256=a059b9cf0d3709ea8b6ce93636a71d5f860579ca625e70a78641bbc758f10e4a
+scipy @ file:///work/buildout/croot/scipy_1765202311470/work/dist/scipy-1.16.3-cp314-cp314-linux_x86_64.whl#sha256=4862531fc5d0549379bc2e8985bfba2b9c2400b53f0013cc8a5a4d6117848428
+seaborn @ file:///work/buildout/croot/seaborn_1763640441258/work
+setuptools==80.9.0
+sip @ file:///work/buildout/croot/sip_1761939556033/work
+six @ file:///work/buildout/croot/six_1759952127748/work
+smmap==5.0.2
+stack-data==0.6.3
+streamlit==1.52.2
+tenacity==9.1.2
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1741878222898/work
+toml==0.10.2
+tornado @ file:///work/buildout/croot/tornado_1759952458497/work
+traitlets==5.14.3
+typing_extensions==4.15.0
+tzdata @ file:///croot/python-tzdata_1746123641790/work
+urllib3==2.6.2
+watchdog==6.0.0
+wcwidth==0.2.14
